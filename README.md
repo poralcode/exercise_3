@@ -52,7 +52,10 @@ Feel free to modify and expand upon this project to meet your needs. If you have
 
 ## Sample Output
 
-[sample_output/sample-output-android-light-mode.jpg](https://raw.githubusercontent.com/poralcode/exercise_3/main/sample_output/sample-output-android-light-mode.jpg)
+[Android: Light Mode](https://raw.githubusercontent.com/poralcode/exercise_3/main/sample_output/sample-output-android-light-mode.jpg)
 
-[sample_output/sample-output-android-dark-mode.jpg](https://github.com/poralcode/exercise_3/blob/main/sample_output/sample-output-android-dark-mode.jpg)
+[Android: Dark Mode](https://github.com/poralcode/exercise_3/blob/main/sample_output/sample-output-android-dark-mode.jpg)
 
+[Chrome](https://github.com/poralcode/exercise_3/blob/main/sample_output/sample-output-chrome.png)
+
+[Windows App (Windows 11)]https://github.com/poralcode/exercise_3/blob/main/sample_output/sample-output-windows-11.png
