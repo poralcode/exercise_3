@@ -1,4 +1,4 @@
-# Mobile Application Development: Exercise 3
+# Mobile Application Development: Exercise 3 (Login Screen)
 
 ## Overview
 
