@@ -52,6 +52,7 @@ Feel free to modify and expand upon this project to meet your needs. If you have
 
 ## Sample Output
 
-[sample_output/sample-output-android-light-mode.jpg.png](https://raw.githubusercontent.com/poralcode/exercise_3/main/sample_output/sample-output-android-light-mode.jpg)
-[sample_output/sample-output-android-dark-mode.jpg.png](https://raw.githubusercontent.com/poralcode/exercise_3/main/sample_output/sample-output-android-dark-mode.jpg)
+[sample_output/sample-output-android-light-mode.jpg](https://raw.githubusercontent.com/poralcode/exercise_3/main/sample_output/sample-output-android-light-mode.jpg)
+
+[sample_output/sample-output-android-dark-mode.jpg](https://raw.githubusercontent.com/poralcode/exercise_3/main/sample_output/sample-output-android-dark-mode.jpg)
 
