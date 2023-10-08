@@ -49,3 +49,9 @@ To get started with this Flutter project, follow these steps:
 - This project is well-documented with comments to help you understand its structure and functionality.
 
 Feel free to modify and expand upon this project to meet your needs. If you have any questions or encounter issues, refer to the Flutter documentation or seek assistance from the Flutter community.
+
+## Sample Output
+
+![Image Description](sample_output/sample-output-android-light-mode.jpg.png)
+![Image Description](sample_output/sample-output-android-dark-mode.jpg.png)
+
