@@ -48,6 +48,8 @@ To get started with this Flutter project, follow these steps:
 
 - You may need to replace the placeholder assets (`flutterio_icon_purple.svg` and `flutterio_icon_purple.png`) with your own logo or graphics.
 
+- The application supports dark mode for accessibility.
+
 - This project is well-documented with comments to help you understand its structure and functionality.
 
 Feel free to modify and expand upon this project to meet your needs. If you have any questions or encounter issues, refer to the Flutter documentation or seek assistance from the Flutter community.
