@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Flutter project, named "Exercise 3," is designed to serve as a mobile application that includes a login screen. The login screen allows users to input their username or email and password for authentication. Additionally, it provides options for users to recover their forgotten credentials and offers alternative login methods such as Facebook, Google, LinkedIn, and Pinterest.
+This Flutter project, named “Exercise 3,” is designed to function as a mobile application featuring a comprehensive login screen. The login screen facilitates users to authenticate by entering their username or email and password. For those who have forgotten their credentials, the application provides recovery options. It also extends the convenience of alternative login methods through various social media platforms such as Facebook, Google, LinkedIn, and Pinterest. A notable aspect of this application is its commitment to accessibility, demonstrated by its support for dark mode. This feature caters to user preferences and comfort, enhancing the overall user experience.
 
 ## Project Structure
 
@@ -32,9 +32,11 @@ To get started with this Flutter project, follow these steps:
 
 3. Open the project in your preferred code editor or IDE.
 
-4. Run the project using the `flutter run` command or by clicking the "Run" button in your IDE.
+4. Resolve required dependencies by using `flutter pub get` command.
 
-5. Explore and customize the `home_page.dart` file to design your login screen as desired.
+5. Run the project using the `flutter run` command or by clicking the "Run" button in your IDE.
+
+6. Explore and customize the `home_page.dart` file to design your login screen as desired.
 
 ## Additional Notes
 
